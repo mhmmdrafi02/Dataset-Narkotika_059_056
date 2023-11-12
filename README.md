@@ -32,10 +32,6 @@ File [Overview.xlsx](Overview/Overview.xlsx) berisi ringkasan data putusan penga
 
 Jika Anda menemukan kesalahan atau ingin berkontribusi pada dataset ini, silakan buat *pull request* atau laporkan *issue*.
 
-## Lisensi
-
-Dataset ini dilisensikan di bawah [lisensi](LISENSI) tertentu. Silakan lihat file LISIENSI untuk informasi lebih lanjut.
-
 ## Kontak
 
 Untuk pertanyaan atau informasi lebih lanjut, hubungi melalui email: [rafimaulana124l@webmail.umm.ac.id].
