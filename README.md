@@ -1,5 +1,7 @@
 # Dataset Putusan Pengadilan PIDANA KHUSUS - NARKOTIKA DAN PSIKOTROPIKA
 
+![Logo Mahkamah Agung](https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png)
+
 Repository ini berisi dataset putusan pengadilan dari Pengadilan Negeri (PN) yang bergerak di bidang PIDANA KHUSUS dengan klasifikasi NARKOTIKA DAN PSIKOTROPIKA. Dataset terdiri 50 putusan dari direktori Mahkamah Agung RI, Pengadilan Negeri (PN) Jakarta Pusat dengan tahun putusan 2023.
 
 ## Struktur Direktori
