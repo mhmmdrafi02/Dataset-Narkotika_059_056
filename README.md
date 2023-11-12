@@ -30,6 +30,10 @@ File [Overview.xlsx](Overview/Overview.xlsx) berisi ringkasan data putusan penga
 4. **Barang Bukti**: Jenis barang bukti yang terkait dalam putusan.
 5. **Amar Putusan**: Ringkasan amar putusan pengadilan.
 
+## Lisensi Dataset
+
+Dataset ini diambil dari website publik Mahkamah Agung RI dan dianggap berada di domain publik atau memiliki lisensi yang memungkinkan penggunaan bebas.
+
 ## Kontribusi
 
 Jika Anda menemukan kesalahan atau ingin berkontribusi pada dataset ini, silakan buat *pull request* atau laporkan *issue*.
