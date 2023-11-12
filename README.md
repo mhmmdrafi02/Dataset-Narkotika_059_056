@@ -40,5 +40,5 @@ Jika Anda menemukan kesalahan atau ingin berkontribusi pada dataset ini, silakan
 
 ## Kontak
 
-Untuk pertanyaan atau informasi lebih lanjut, hubungi melalui email: [rafimaulana124l@webmail.umm.ac.id].
+Untuk pertanyaan atau informasi lebih lanjut, hubungi melalui email: [rafimaulana124@webmail.umm.ac.id].
 
