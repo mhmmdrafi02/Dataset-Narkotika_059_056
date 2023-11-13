@@ -24,7 +24,7 @@ File [Overview.xlsx](Overview/Overview.xlsx) berisi ringkasan data putusan penga
 
 ### Kolom yang Tersedia
 
-1. **No**: Nomor unik untuk setiap putusan.
+1. **No**: Nomor biasa.
 2. **No Putusan**: Nomor putusan unik.
 3. **Lembaga Peradilan**: Nama Pengadilan Negeri yang mengeluarkan putusan (PN Jakarta Pusat).
 4. **Barang Bukti**: Jenis barang bukti yang terkait dalam putusan.
